@@ -1,0 +1,33 @@
+/*CSS For styling the navigation menu*/
+nav{
+    background-color: blueviolet;
+    color:beige;
+    padding: 10pz;
+}
+nav ul{
+    list-style-type: none;
+    margin: 0;
+    padding:0;
+}
+nav ul li{
+    display:inline;
+    margin-right: 20px;
+}
+nav ul li a{
+    color:white;
+    text-decoration: none;
+}
+nav ul li a:hover{
+    text-decoration: under;
+
+}
+section{
+    background-color: blue;
+    padding:20px;
+}
+footer{
+    background-color: blue;
+    color: red;
+    text-align: center;
+    padding: 10px;;
+}
